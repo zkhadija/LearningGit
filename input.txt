@@ -1,1 +1,2 @@
-#####Input file ####
+##### Input file #####
+value = Test rebase
